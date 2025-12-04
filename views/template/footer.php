@@ -3,7 +3,7 @@
 ?>
 </div> <footer class="footer fixed-bottom">
     <div class="container text-center text-muted">
-        <small>&copy; 2025 GameStore MVVM App</small>
+        <small>&copy; 2025 FrizkianSoft</small>
     </div>
 </footer>
 
