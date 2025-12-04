@@ -77,3 +77,9 @@ DPBO_MVVM/
     <p>Gunakan menu navigasi di bagian atas halaman untuk berpindah antara halaman CRUD masing-masing tabel.</p>
     
 # Dokumentasi
+
+
+https://github.com/user-attachments/assets/67cc7b22-559f-4aa5-b576-1b8dd0c48f90
+
+
+
