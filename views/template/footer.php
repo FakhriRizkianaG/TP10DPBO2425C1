@@ -1,7 +1,7 @@
 <?php 
 // File: views/template/footer.php 
 ?>
-</div> <footer class="footer fixed-bottom">
+</div> <footer class="footer">
     <div class="container text-center text-muted">
         <small>&copy; 2025 FrizkianSoft</small>
     </div>
